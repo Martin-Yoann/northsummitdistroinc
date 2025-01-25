@@ -11,11 +11,6 @@
         </router-link>
       </div>
       <div class="navRight">
-        <!-- <router-link to="/about">About</router-link> -->
-        <!-- <router-link to="/Product">Product</router-link> -->
-        <!-- <router-link to="/News">News</router-link> -->
-        <!-- <router-link to="/Contact">Contact</router-link> -->
-        <!-- <router-link to="/about">持续更新肿</router-link> -->
       </div>
       <div class="title">
         <h1>Gloden Coast</h1>
