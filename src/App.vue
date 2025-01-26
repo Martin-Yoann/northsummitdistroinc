@@ -13,7 +13,7 @@
       <div class="navRight">
       </div>
       <div class="title">
-        <h1>Gloden Coast</h1>
+        <h1>Resolve HQ</h1>
       </div>
     </nav>
     <router-view />
