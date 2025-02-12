@@ -3,7 +3,7 @@
       <div></div>
       <div></div>
       <div>
-         <span>Email: <i>cs@ylsndistributioninc.com</i></span>
+         <span>Email: <i>cs@northsummitdistroinc.com</i></span>
          
       </div>
     </div>
